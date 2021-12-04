@@ -17,6 +17,7 @@ Trabalho executado por:
 * **Desenvolvedor** - [Maria Gabriele Rebolhero Grillo](https://github.com/rebolhero)
 * **Desenvolvedor** - [André Taiki Nunes Iwasaki](https://github.com/andreiwasaki)
 *  **Desenvolvedor** - [Julio Augusto Silva](http://linkedin.com/in/julio-augusto-a99308119)
+
 Alunos do 4º semestre de Análise e Desenvolvimento de Sistemas da Fatec Santana de Parnaíba
 
 
